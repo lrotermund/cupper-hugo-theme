@@ -42,7 +42,7 @@ Hugo version `0.81.0` or higher is required. View the [Hugo releases](https://gi
 From the root of your site:
 
 ```
-git submodule add https://github.com/zwbetz-gh/cupper-hugo-theme.git themes/cupper-hugo-theme
+git submodule add https://github.com/lrotermund/cupper-hugo-theme.git themes/cupper-hugo-theme
 ```
 
 ## Updating
@@ -63,7 +63,7 @@ hugo server --themesDir ../..
 
 ## Configuration
 
-Copy `config.yaml` from the [`exampleSite`](https://github.com/zwbetz-gh/cupper-hugo-theme/tree/master/exampleSite), then edit as desired.
+Copy `config.yaml` from the [`exampleSite`](https://github.com/lrotermund/cupper-hugo-theme/tree/master/exampleSite), then edit as desired.
 
 ## Nav Title or Logo
 
@@ -111,7 +111,7 @@ You can provide an optional list of custom CSS files, which must be placed insid
 
 You can provide an optional list of custom JS files, which must be placed inside the `static` dir. These will load after the theme JS loads. So, `static/js/custom_01.js` translates to `js/custom_01.js`.
 
-See the [example site config file](https://github.com/zwbetz-gh/cupper-hugo-theme/blob/master/exampleSite/config.yaml) for sample usage.
+See the [example site config file](https://github.com/lrotermund/cupper-hugo-theme/blob/master/exampleSite/config.yaml) for sample usage.
 
 ## Default to Dark Theme
 
@@ -157,7 +157,7 @@ If your site is **not** a git repo, then set `enableGitInfo` to `false` in your 
 
 ## Getting help
 
-If you run into an issue that isn't answered by this documentation or the [`exampleSite`](https://github.com/zwbetz-gh/cupper-hugo-theme/tree/master/exampleSite), then visit the [Hugo forum](https://discourse.gohugo.io/). The folks there are helpful and friendly. **Before** asking your question, be sure to read the [requesting help guidelines](https://discourse.gohugo.io/t/requesting-help/9132).
+If you run into an issue that isn't answered by this documentation or the [`exampleSite`](https://github.com/lrotermund/cupper-hugo-theme/tree/master/exampleSite), then visit the [Hugo forum](https://discourse.gohugo.io/). The folks there are helpful and friendly. **Before** asking your question, be sure to read the [requesting help guidelines](https://discourse.gohugo.io/t/requesting-help/9132).
 
 ## Credits
 
